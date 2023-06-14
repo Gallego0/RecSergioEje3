@@ -49,7 +49,7 @@ public class BuscarNum {
 			}
 		}
 		return numBuscado;
-		
+		g
 	}
 	
 }
